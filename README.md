@@ -1,0 +1,1 @@
+Learning Django using [Django Project](https://www.djangoproject.com/).
